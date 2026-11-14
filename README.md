@@ -75,3 +75,4 @@ Projet réalisé par : **Rayen**
 
 Ce projet permet de mettre en pratique les notions fondamentales de Python et de découvrir l'utilisation de Git pour suivre les différentes étapes du développement d'une application.
 
+
