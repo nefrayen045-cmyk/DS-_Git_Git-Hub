@@ -10,7 +10,7 @@ def ajouter_tache():
         numero = len(taches) + 1
         tache = {"numero": numero, "titre": titre}
         taches.append(tache)
-        print("Tâche ajoutée avec succès !")
+        print("Félicitations! Votre tâche a été ajoutée avec succès.")
 
 
 def afficher_taches():
